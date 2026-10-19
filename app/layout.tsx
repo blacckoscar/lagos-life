@@ -13,8 +13,8 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  title: "Lagos Life",
-  description: "A public 3D house on Victoria Island. Walk around, then visit the city.",
+  title: "Oscar Life",
+  description: "A public 3D house. Walk around, then visit the city.",
 };
 
 export const viewport: Viewport = {

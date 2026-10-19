@@ -145,7 +145,7 @@ export function signTexture() {
   ctx.font = "700 92px Georgia, serif";
   ctx.textAlign = "center";
   ctx.textBaseline = "middle";
-  ctx.fillText("LAGOS LIFE", 512, 118);
+  ctx.fillText("OSCAR LIFE", 512, 118);
   ctx.font = "500 28px Georgia, serif";
   ctx.fillStyle = "#c6a56a";
   ctx.fillText("VICTORIA ISLAND", 512, 176);
