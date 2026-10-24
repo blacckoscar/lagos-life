@@ -142,10 +142,10 @@ export function signTexture() {
   roundRect(ctx, 22, 32, 980, 192, 18);
   ctx.stroke();
   ctx.fillStyle = "#f3dfb4";
-  ctx.font = "700 92px Georgia, serif";
+  ctx.font = "700 78px Georgia, serif";
   ctx.textAlign = "center";
   ctx.textBaseline = "middle";
-  ctx.fillText("OSCAR LIFE", 512, 118);
+  ctx.fillText("OSCAR'S LIFE", 512, 118);
   ctx.font = "500 28px Georgia, serif";
   ctx.fillStyle = "#c6a56a";
   ctx.fillText("VICTORIA ISLAND", 512, 176);

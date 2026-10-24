@@ -120,7 +120,7 @@ export default function Game() {
 
       <header className="top">
         <div className="brand-row">
-          <p className="brand">Oscar Life</p>
+          <p className="brand">Oscar's Life</p>
           <p className="where">{place === "home" ? "Your house" : "Victoria Island"}</p>
         </div>
         <div className="pills">
